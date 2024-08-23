@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anjali Raja
 -    I'm currently learning OOPS(C++) / HTML| CSS |Java Script.
-- 
+  
 - 👀 I'm passionate about learning and growth.
 - 🌱 Explorer of Artificial Intelligence & Data Science.
 - 💞️ I’m looking to collaborate on Projects related to C/C++/DSA
