@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anjali Raja
--    I'm currently learning c++ & python.
+-    I'm currently learning c++ & HTML| CSS |Java Script.
 - 
 - 👀 I'm passionate about learning and growth.
 - 🌱 Explorer of Artificial Intelligence & Data Science.
