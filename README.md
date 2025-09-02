@@ -17,15 +17,9 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 </p>
 
-<h3>Frameworks</h3>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
-</p>
+
 
 <h3>Tools</h3>
 <p>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
 </p>
