@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Anjali Raja
--    I'm currently learning OOPS(C++) / HTML | CSS | C/C++.
+-    Skills : C/C++/Python/Java/OOPS/Web development/
+-    Currently learning -DSA /OpenCV
   
 - 👀 I'm passionate about learning and growth.
 - 🌱 Explorer of Artificial Intelligence & Data Science.
