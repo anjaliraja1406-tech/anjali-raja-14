@@ -23,3 +23,9 @@
 <p>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
+
+
+<h3>Sesigning and Photo editing </h3>
+<p>
+  <img src="[https://img.icons8.com/color/48/000000/visual-studio-code-2019.png](https://static.vecteezy.com/system/resources/previews/048/759/334/non_2x/canva-transparent-icon-free-png.png)"/>
+</p>
