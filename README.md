@@ -1,20 +1,36 @@
-- 👋 Hi, I’m Anjali Raja
--    I'm currently learning OOPS(C++) / HTML | CSS | C/C++.
-  
-- 👀 I'm passionate about learning and growth.
-- 🌱 Explorer of Artificial Intelligence & Data Science.
-- 💞️ I’m looking to collaborate on Projects related to C/C++/DSA
+<h1 align="center">Hi there, I'm Anjali 👋</h1>
 
-- 📫 How to reach me...
--  LinkedIn:[https://www.linkedin.com/in/anjali-raja-b74709295/ ]
--  Email:[anjaliraja1406@gmail.com]
--  Email:[r.anji3014@gmail.com]
--  BlogSpot:[https://anjaliraja.blogspot.com/?m=1]
-  
-- 😄 Pronouns:she/Her
-- ⚡ Fun fact:I'm a Tea-fueled developer and love to solve the Problems!
+<p align="center">
+  I'm an enthusiastic Techie and a Developer who loves to contribute to the Open Source Community.
+</p>
 
-<!---
-anjali-raja-14/anjali-raja-14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<h2>💻 My Skills</h2>
+
+<h3>Languages</h3>
+<p>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+</p>
+
+
+
+<h3>Tools</h3>
+<p>
+  
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  
+</p>
+
+<h3>Designing and Photo Editing </h3>
+<p>
+  
+  <img src="https://static.vecteezy.com/system/resources/previews/048/759/334/non_2x/canva-transparent-icon-free-png.png" width="40"/>
+
+  
+</p>
