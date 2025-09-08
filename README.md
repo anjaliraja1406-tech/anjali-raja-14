@@ -21,7 +21,7 @@
 
 <h3>Modules</h3>
 <p>
-  <img src="https://radicals.in/wp-content/uploads/2024/07/NumPy_logo_2020.svg.webp" width="48" height=48 alt="NumPy"/>
+  <img src="https://radicals.in/wp-content/uploads/2024/07/NumPy_logo_2020.svg.webp" width="60" height="48" alt="NumPy"/>
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="48" alt="Pandas"/>
   <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" width="48" alt="OpenCV"/>
 </p>
