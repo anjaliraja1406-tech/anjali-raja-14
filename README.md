@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Anjali 👋</h1>
 
 <p align="center">
@@ -22,8 +21,8 @@
 
 <h3>Modules</h3>
 <p>
-  <img src="https://tse3.mm.bing.net/th/id/OIP.D9IMxdv8-D0xJYLYcIEE4QHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="48" alt="NumPy"/>
-  <img src="[https://pandas.pydata.org/static/img/pandas_mark.svg](https://i0.wp.com/pythonguides.com/wp-content/uploads/2023/09/Python-Pandas-logo.jpg)" width="48" alt="Pandas"/>
+  <img src="https://static-00.iconduck.com/assets.00/numpy-icon-512x512-0i4qzohx.png" width="48" alt="NumPy"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="48" alt="Pandas"/>
   <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" width="48" alt="OpenCV"/>
 </p>
 
