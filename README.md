@@ -21,7 +21,7 @@
 
 <h3>Modules</h3>
 <p>
-  <img src="[https://static-00.iconduck.com/assets.00/numpy-icon-512x512-0i4qzohx.png](https://image.pngaaa.com/136/1971136-middle.png)" width="48" alt="NumPy"/>
+  <img src="https://image.pngaaa.com/136/1971136-middle.png" width="48" alt="NumPy"/>
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="48" alt="Pandas"/>
   <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" width="48" alt="OpenCV"/>
 </p>
